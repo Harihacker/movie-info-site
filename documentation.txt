@@ -1,0 +1,15 @@
+               -------------------------------DOCUMENTATION OF THIS WEBPAGE----------------------------------
+			   
+			   
+			   
+			       *This webpage is created to display the movie ,for what we searched.
+				   
+				   *This webpage is developed using
+				                                      1. HTML & CSS
+													  2. BOOTSTRAP (cyborg theme)
+													  3. ANIMATE.CSS (to animate the text and buttons)
+													  4. jQuery (for perfoming get & post function)
+													  5. OMDB (for getting the movie information)
+													  
+				   * compatible with all browsers and mobile devices. 								  
+													  
